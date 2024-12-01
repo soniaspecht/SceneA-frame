@@ -1,5 +1,6 @@
 # Creación de escena en A-Frame
 - - -
+[Acceso al zip](https://drive.google.com/file/d/11cf3uQI2N1GFq2mDcV_IAoOMTyu3S8xc/view?usp=share_link)
 ## Introducción
 Con el fin de crear nuestra propia escena en A-Frame, hemos usado html y javascript. Además, se utilizará A-Frame y otras herramientas como Blender y Tinkercad, con el fin de crear un museo con cuadros, esculturas, una sala de proyección y una cafetería. 
 
