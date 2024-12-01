@@ -31,40 +31,39 @@ Gracias al uso de la herramienta Visual Studio Code y de A-Frame ha sido posible
 - [Tripo3D](https://www.tripo3d.ai) 
 -  [Sketchfab](https://sketchfab.com/search?type=models) 
 -  [Blender](https://www.blender.org/) 
-Objetos, sonido, video: 
-Daubigny's 'The Dunes at Camiers". Autor: Minneapolis Institute of Art.
+- Daubigny's 'The Dunes at Camiers". Autor: Minneapolis Institute of Art.
 https://creazilla.com/media/3d-model/66291/daubigny-s-the-dunes-at-camiers
-Vincent van Gogh's Olive Trees. Autor: Minneapolis Institute of Art. https://creazilla.com/media/3d-model/65705/vincent-van-gogh-s-olive-trees
-Central Panel of the Chapel of São Pedro da Ribeira. Autor: Morbase | Museu Virtual.
+- Vincent van Gogh's Olive Trees. Autor: Minneapolis Institute of Art. https://creazilla.com/media/3d-model/65705/vincent-van-gogh-s-olive-trees
+- Central Panel of the Chapel of São Pedro da Ribeira. Autor: Morbase | Museu Virtual.
 https://creazilla.com/media/3d-model/65592/central-panel-of-the-chapel-of-sao-pedro-da-ribeira
-Ernest Lawson's 'Segovia', c.1916. Autor: Minneapolis Institute of Art.
+- Ernest Lawson's 'Segovia', c.1916. Autor: Minneapolis Institute of Art.
 https://creazilla.com/media/3d-model/66090/ernest-lawson-s-segovia-c.1916
-JMW Turner's 'Borrowdale, Rosthwaite Bridge...', autor: Minneapolis Institute of Art.
+- JMW Turner's 'Borrowdale, Rosthwaite Bridge...', autor: Minneapolis Institute of Art.
 https://creazilla.com/media/3d-model/66070/jmw-turner-s-borrowdale-rosthwaite-bridge...
-E. Ambrose Webster's 'A Brook in Winter'. Autor:  Minneapolis Institute of Art.
+- E. Ambrose Webster's 'A Brook in Winter'. Autor:  Minneapolis Institute of Art.
 https://creazilla.com/media/3d-model/66858/e.-ambrose-webster-s-a-brook-in-winter
-Persona: Elsje. Autor: HumanAlloy. https://www.fab.com/listings/dc677058-b93f-4971-9b97-bf744cf54164
-Banco: Nelson bench. Autor: Nick Kotik. https://www.fab.com/listings/1abc0535-99c6-4ed3-a50f-41a89459b2d8
-Silla, chair modern. Autor: plaggy. https://www.fab.com/listings/6986c871-e5b2-4e2b-98b7-70d227c96b55
-Autor: Nastco. https://media.istockphoto.com/id/506692747/es/foto/césped-artificial.jpg?s=612x612&w=0&k=20&c=QbW-vBu7XTDiH_GQ6S5R2s4Xx9lAbfQ055cbozQ1fRs= 
-Puerta exterior, Opened quadruple glass door. Autor: 1-3D.com. https://sketchfab.com/3d-models/opened-quadruple-glass-doors-507d51b093674ff189ed29e1068eaf91
-Mesas cafeteria, Table And Chairs. Autor: emrecskn. https://free3d.com/3d-model/masa-ve-sandalye-222808.html
-Mesas cafetería exterior, juego de mesa y sillas para jarin/garden table. Autor: CastroArbell. https://sketchfab.com/3d-models/juego-de-mesa-y-sillas-para-jardingarden-table-59f257eaac904a6ab74541e58182a867
-Gato naranja, Cat V1. Autor: printable_models. https://free3d.com/3d-model/cat-v1--522281.html
-Canela, Domestic Cat V2. Autor: printable_models. https://free3d.com/3d-model/domestic-cat-v2--936171.html
-Perro, Dog V2. Autor: printable_models. https://free3d.com/3d-model/dog-v2--703191.html
-Gárgola, GargoyleStatue V1. Autor: printable_models. https://free3d.com/3d-model/gargoylestatue-v1--716400.html
-PerroHueso, ConcreteDogStatue V1. Autor: printable_models. https://free3d.com/3d-model/concretedogstatue-v1--25932.html
-Lion, LionSitting V2. Autor: printable_models https://free3d.com/3d-model/lionsitting-v2--758505.html
-Delfín, LeapingDolphinStatue V1. Autor: printable_models https://free3d.com/3d-model/leapingdolphinstatue-v1--468662.html 
-Plantas; Photorealistic Plant. Autor: Pavlos Demetriades, https://www.fab.com/listings/f2f0793e-0561-4802-b1c1-b1306f078d24
-Plantas; Potted Monstera Plant. Autor: angemturc, https://www.fab.com/listings/f41917c5-fba3-46b4-964f-8e8616887cc5
-Pino; SM_Pine_b_04. Autor: Big Bubble, https://www.fab.com/listings/612c4f3e-e147-4d68-8f35-82f38047da80
-Sonido: ‘idea 22’. Autor: lifeofhugoo https://vm.tiktok.com/ZGdjq5Vmq/
-Video: ‘El grito’. Autor: eusia_historia https://vm.tiktok.com/ZGdjq9hAj/
-Letras en tinkercad: Autora: Sonia Specht 
-Modelo museo Blender. Autora: Florencia Portada
-Convertidor de archivos 3D: https://imagetostl.com/es/convertir/archivo/fbx/a/glb#convert 
+- Persona: Elsje. Autor: HumanAlloy. https://www.fab.com/listings/dc677058-b93f-4971-9b97-bf744cf54164
+- Banco: Nelson bench. Autor: Nick Kotik. https://www.fab.com/listings/1abc0535-99c6-4ed3-a50f-41a89459b2d8
+- Silla, chair modern. Autor: plaggy. https://www.fab.com/listings/6986c871-e5b2-4e2b-98b7-70d227c96b55
+- Autor: Nastco. https://media.istockphoto.com/id/506692747/es/foto/césped-artificial.jpg?s=612x612&w=0&k=20&c=QbW-vBu7XTDiH_GQ6S5R2s4Xx9lAbfQ055cbozQ1fRs= 
+- Puerta exterior, Opened quadruple glass door. Autor: 1-3D.com. https://sketchfab.com/3d-models/opened-quadruple-glass-doors-507d51b093674ff189ed29e1068eaf91
+- Mesas cafeteria, Table And Chairs. Autor: emrecskn. https://free3d.com/3d-model/masa-ve-sandalye-222808.html
+- Mesas cafetería exterior, juego de mesa y sillas para jarin/garden table. Autor: CastroArbell. https://sketchfab.com/3d-models/juego-de-mesa-y-sillas-para-jardingarden-table-59f257eaac904a6ab74541e58182a867
+- Gato naranja, Cat V1. Autor: printable_models. https://free3d.com/3d-model/cat-v1--522281.html
+- Canela, Domestic Cat V2. Autor: printable_models. https://free3d.com/3d-model/domestic-cat-v2--936171.html
+- Perro, Dog V2. Autor: printable_models. https://free3d.com/3d-model/dog-v2--703191.html
+- Gárgola, GargoyleStatue V1. Autor: printable_models. https://free3d.com/3d-model/gargoylestatue-v1--716400.html
+- PerroHueso, ConcreteDogStatue V1. Autor: printable_models. https://free3d.com/3d-model/concretedogstatue-v1--25932.html
+- Lion, LionSitting V2. Autor: printable_models https://free3d.com/3d-model/lionsitting-v2--758505.html
+- Delfín, LeapingDolphinStatue V1. Autor: printable_models https://free3d.com/3d-model/leapingdolphinstatue-v1--468662.html 
+- Plantas; Photorealistic Plant. Autor: Pavlos Demetriades, https://www.fab.com/listings/f2f0793e-0561-4802-b1c1-b1306f078d24
+- Plantas; Potted Monstera Plant. Autor: angemturc, https://www.fab.com/listings/f41917c5-fba3-46b4-964f-8e8616887cc5
+- Pino; SM_Pine_b_04. Autor: Big Bubble, https://www.fab.com/listings/612c4f3e-e147-4d68-8f35-82f38047da80
+- Sonido: ‘idea 22’. Autor: lifeofhugoo https://vm.tiktok.com/ZGdjq5Vmq/
+- Video: ‘El grito’. Autor: eusia_historia https://vm.tiktok.com/ZGdjq9hAj/
+- Letras en tinkercad: Autora: Sonia Specht 
+- Modelo museo Blender. Autora: Florencia Portada
+- Convertidor de archivos 3D: https://imagetostl.com/es/convertir/archivo/fbx/a/glb#convert 
 
 
 
